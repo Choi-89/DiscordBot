@@ -1,2 +1,2 @@
 # DiscordBot
-print'babo'
+//바보
